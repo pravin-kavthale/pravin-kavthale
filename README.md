@@ -8,7 +8,7 @@
 🌱 **Currently learning:** React, REST APIs, Advanced SQL & Data Science – mastering full-stack development and AI integration.<br>
 🤝 **Looking for help with:** Cloud Deployment & Scalability – want to take projects to the next level.<br>
 💬 **Ask me about:** Python, Django, React, SQL, Machine Learning, Data Analytics – happy to discuss ideas or help troubleshoot.<br>
-📫 **Reach me at:** pravinkawthale@example.com – let’s collaborate and create something meaningful.<br>
+📫 **Reach me at:** pravinkawthale2204@example.com – let’s collaborate and create something meaningful.<br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pravin._.k) 
