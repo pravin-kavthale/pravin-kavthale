@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pravin Kavthale</h1>
+<h1 align="center">Hi 👋, I'm Pravin Kawthale</h1>
 <h3 align="center">A dedicated software developer and enthusiastic learner, committed to continuous growth and innovation in the tech industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
